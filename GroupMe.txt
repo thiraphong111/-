@@ -2,4 +2,4 @@ Thiraphong Champathong (Mac) Thiraphong.c@ku.th
 
 Matsalin Singubon (Ploy) matsalin.s@ku.th
 
-Jutahip Thadtan (Mink) jutathip.tha@k.th
+Jutathip Thadtan (Mink) jutathip.tha@ku.th
